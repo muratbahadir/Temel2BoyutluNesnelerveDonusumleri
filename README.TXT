@@ -15,7 +15,7 @@ Program kullanımı kolay olması açısından bu fonksiyonların parametreleri 
 Parametreleri değiştirerek test etmek isterseniz fonksiyonun çağrıldığı yerden kolaylıkla değişiklikler yapabilirsiniz.
 (Hangi parametrenin neyi temsil ettiği kolay anlaşılır şekilde kodlandı.)
 Parametre değişerek kontrol etmek isterseniz bazı işlemlerde (özellikle yıldız doldurma ve poligon doldurma) programın hızlı çalışması için
-nesnenin alanınu düşük tutmaya çalışmanızı tavsiye ederim.
+nesnenin alanını düşük tutmaya çalışmanızı tavsiye ederim.
 
 
 Python 3.7 kullanılarak Windows 10 platformunda yazılmıştır.
